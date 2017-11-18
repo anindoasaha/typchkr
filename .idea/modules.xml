@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/typchkr.iml" filepath="$PROJECT_DIR$/.idea/modules/typchkr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/typchkr-build.iml" filepath="$PROJECT_DIR$/.idea/modules/typchkr-build.iml" />
+    </modules>
+  </component>
+</project>
